@@ -1,4 +1,4 @@
 [submodule "public"]
 	path = public
-	url = https://github.com/kel-c-lm/kel-c-lm.github.io.git
+	url = https://github.com/kel-c-lm/kel-c-lm.github.io
 	branch = main
