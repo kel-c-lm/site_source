@@ -2,3 +2,6 @@
 	path = public
 	url = https://github.com/kel-c-lm/kel-c-lm.github.io.git
 	branch = main
+[submodule "themes/introdction"]
+	path = themes/introdction
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
